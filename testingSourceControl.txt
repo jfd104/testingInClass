@@ -5,3 +5,5 @@ testing modifying the file and commiting the change
 
 
 I love using GitHub.
+
+testing the staging area.
