@@ -2,3 +2,6 @@ testing gitHub in SWENG861 on December 1, 2014
 
 
 testing modifying the file and commiting the change
+
+
+I love using GitHub.
